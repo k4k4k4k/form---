@@ -1,0 +1,17 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+.Form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-top: 5px;
+}
+
+button {
+  margin-top: 10px;
+}
